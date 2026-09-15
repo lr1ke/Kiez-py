@@ -1,0 +1,3 @@
+import { existsSync } from 'node:fs';
+import { defineConfig } from '@playwright/test';
+export default defineConfig({testDir:'./tests/e2e',fullyParallel:false,workers:1,use:{baseURL:'http://localhost:3001',headless:true,launchOptions:{args:['--use-fake-device-for-media-stream','--use-fake-ui-for-media-stream'],executablePath:process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE||(existsSync('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome')?'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome':undefined)},screenshot:'only-on-failure'},webServer:{command:'npm run dev -- --port 3001',url:'http://localhost:3001',reuseExistingServer:true,timeout:120000}});

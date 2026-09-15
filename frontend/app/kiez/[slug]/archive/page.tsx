@@ -1,0 +1,8 @@
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
+import { ArrowLeft,ArrowUpRight } from 'lucide-react';
+import { getNeighborhood } from '@/lib/server';
+import { archive } from '@/lib/server';
+import { prettyDate } from '@/lib/dates';
+export const dynamic='force-dynamic';
+export default async function ArchivePage({params}:{params:Promise<{slug:string}>}){const {slug}=await params,n=await getNeighborhood(slug);if(!n)notFound();const stories=await archive(slug);return <main id="main" className="archive-page"><Link href={`/kiez/${slug}`} className="back-link"><ArrowLeft size={15}/> Back to today</Link><span className="eyebrow">THE {n.name.toUpperCase()} ARCHIVE</span><h1>The days stay<br/><em>with us.</em></h1><p className="page-intro">Little moments, gathered into a shared memory.<br/>One day. Many voices. A neighborhood telling its story.</p><div className="archive-list">{stories.map(c=><Link href={`/kiez/${slug}/archive/${c.diary_date}`} key={c.id}><div className="archive-date">{prettyDate(c.diary_date)}<small>{c.contribution_count} contributions</small></div><div><span className="eyebrow">{c.status==='published'?'DAILY CHRONICLE':c.status.toUpperCase()}{c.demo_dataset?' · DEMO':''}</span><h2>{c.status==='published'?c.title:'A day taking shape'}</h2><p>{c.status==='published'?c.body:'The contributions are safe. This Chronicle will be available after generation and review.'}</p></div><ArrowUpRight size={25}/></Link>)}{!stories.length&&<p className="notice">No completed days yet. The first Chronicle will arrive after a day of contributions.</p>}</div></main>;}

@@ -1,0 +1,9 @@
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
+import { ArrowLeft,ArrowUpRight,BookOpen } from 'lucide-react';
+import { getNeighborhood } from '@/lib/server';
+import { latest,archive } from '@/lib/server';
+import { prettyDate,diaryDate } from '@/lib/dates';
+import { Diary } from '@/components/diary';
+export const dynamic='force-dynamic';
+export default async function KiezPage({params}:{params:Promise<{slug:string}>}){const {slug}=await params,n=await getNeighborhood(slug);if(!n)notFound();const [entry,stories]=await Promise.all([latest(slug),archive(slug)]);return <main id="main" className="diary-page"><Link href="/#neighborhoods" className="back-link"><ArrowLeft size={15}/> All neighborhoods</Link><div className="diary-heading"><div><span className="eyebrow">SHARED NOTES FROM {n.district.toUpperCase()}</span><h1>{n.name}<span style={{color:n.color}}>.</span></h1><p>{n.description}</p></div><div className="date-stamp"><span>TODAY</span><strong>{prettyDate(diaryDate())}</strong><small>Europe / Berlin</small></div></div><div className="diary-layout"><div><Diary neighborhood={n} initial={entry}/></div><aside className="archive-aside"><BookOpen size={25} strokeWidth={1.3}/><span className="eyebrow">THE DAYS STAY WITH US</span><h2>A growing memory.</h2><p>Each day, individual moments become one Chronicle, told in the voice of the neighborhood.</p><Link href={`/kiez/${slug}/archive`} className="archive-link">Open the archive <ArrowUpRight size={17}/></Link><div className="recent-days">{stories.slice(0,4).map(c=><Link href={`/kiez/${slug}/archive/${c.diary_date}`} key={c.id}><span>{prettyDate(c.diary_date,true)}<strong>{c.status==='published'?c.title:c.status==='failed'?'Chronicle delayed':c.status==='review'?'Under review':'A day taking shape'}</strong></span><ArrowUpRight size={16}/></Link>)}</div><p className="aside-note">Fictional demo stories are labeled.<br/>Real moments can begin here.</p></aside></div></main>;}

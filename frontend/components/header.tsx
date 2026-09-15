@@ -1,0 +1,4 @@
+import Link from 'next/link';
+import { BookOpen, MapPin, ArrowUpRight } from 'lucide-react';
+export function Header(){return <header className="header"><Link href="/" className="brand"><span className="brand-icon"><BookOpen size={23}/></span>Kiez Notes<span className="brand-dot">.</span></Link><nav aria-label="Main navigation"><Link href="/#neighborhoods"><MapPin size={15}/> Explore</Link><Link href="/#how-it-works" className="about-link">Notes for everyone <ArrowUpRight size={15}/></Link></nav><span className="berlin-label"><span className="live-dot"/> Berlin, together</span></header>;}
+export function Footer(){return <footer className="footer"><Link href="/" className="footer-brand">Kiez Notes.</Link><span>People don’t need to share a language to share a place.</span><span>Made of everyday moments.</span></footer>;}

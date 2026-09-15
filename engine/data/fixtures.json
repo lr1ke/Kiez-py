@@ -1,0 +1,2294 @@
+[
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-0-0",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Leni",
+        "body": "Seit sieben wird nebenan gebohrt. Ich wollte heute einfach nur in Ruhe frühstücken.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:01.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-0-1",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Deniz",
+        "body": "Fırından sıcak ekmek aldım. Eve varmadan ucundan bir parça koparıp yedim.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:02.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-0-2",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Sam",
+        "body": "Visiting for the first time. People were sitting along the canal with their feet dangling. I stayed a while.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:03.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-0-3",
+        "neighborhood_id": "graefekiez",
+        "nickname": "نور",
+        "body": "التقيت بصديقتي عند الزاوية. لم نلتق منذ شهر، وبقينا نتحدث طويلاً.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:04.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-0-4",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Lucía",
+        "body": "La lluvia me pilló sin paraguas. Llegué a casa con los zapatos empapados.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:05.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-0-5",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Mika",
+        "body": "Mein Hund hat sich mitten im Park hingelegt und wollte nicht mehr nach Hause. Ich musste lachen.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:06.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-0-6",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Ece",
+        "body": "Yağmur başlayınca hava serinledi. Açık pencerenin yanında rahat bir nefes aldım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:07.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-0-7",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Alex",
+        "body": "The construction is loud, but I am glad the broken pavement is finally being repaired.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:08.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": null
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-1-0",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Leni",
+        "body": "Der Lieferwagen stand schon wieder auf dem Radweg. Ich musste mit dem Rad auf die Straße ausweichen.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T07:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-1-1",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Deniz",
+        "body": "Komşum fazla yaptığı mercimek çorbasını kapıma getirdi. Akşam yemeğim hazır oldu.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T08:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-1-2",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Sam",
+        "body": "A saxophone player was practising the same phrase by an open window. I liked hearing it get better.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T09:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-1-3",
+        "neighborhood_id": "graefekiez",
+        "nickname": "نور",
+        "body": "كنت أريد النوم بعد العمل، لكن صوت الموسيقى من النافذة أبقاني مستيقظاً.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-11T10:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-1-4",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Lucía",
+        "body": "Encontré un libro de cocina en una caja de cosas gratis. Tiene notas a lápiz en los márgenes.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-11T11:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-1-5",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Mika",
+        "body": "An der Kasse hat mich jemand vorgelassen, weil ich nur eine Zitrone hatte.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T12:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-1-6",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Ece",
+        "body": "Otobüsü kaçırdım. Durakta beklerken annemi aradım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T13:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-1-7",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Alex",
+        "body": "The square was full of people tonight. I wanted a quieter place and went home.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T14:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-graefekiez-1",
+      "neighborhood_id": "graefekiez",
+      "diary_date": "2026-09-11",
+      "title": "The space between the noise",
+      "body": "I swerved around a delivery van blocking my cycle lane, frustrated to be pushed into the road. At a doorway I received a neighbour’s spare lentil soup, and dinner was suddenly taken care of. A saxophone phrase repeated through an open window: I enjoyed hearing it improve, yet I also lay awake after work wishing the music would stop. I found a cookbook in a giveaway box, its margins filled with pencil notes. At the checkout, someone let me go ahead with my single lemon. A missed bus left time to call my mother. My square was full of people tonight; I wanted quiet, and went home.",
+      "source_ids": [
+        "demo-v1-2026-09-12-graefekiez-1-0",
+        "demo-v1-2026-09-12-graefekiez-1-1",
+        "demo-v1-2026-09-12-graefekiez-1-2",
+        "demo-v1-2026-09-12-graefekiez-1-3",
+        "demo-v1-2026-09-12-graefekiez-1-4",
+        "demo-v1-2026-09-12-graefekiez-1-5",
+        "demo-v1-2026-09-12-graefekiez-1-6",
+        "demo-v1-2026-09-12-graefekiez-1-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-graefekiez-1-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-1-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-1-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-1-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-1-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-1-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-1-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-1-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-2-0",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Leni",
+        "body": "Die Schlange beim Bäcker war lang. Für zwei Brötchen war mir das heute zu viel.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-10T07:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-2-1",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Deniz",
+        "body": "Fırının önünde beklerken eski komşumla karşılaştım. Sohbet etmek iyi geldi.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-10T08:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-2-2",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Sam",
+        "body": "Someone was teaching a child to ride a bike. I saw three wobbly metres without a helping hand.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-10T09:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-2-3",
+        "neighborhood_id": "graefekiez",
+        "nickname": "نور",
+        "body": "اشتريت نعناعاً من السوق. رائحته بقيت في حقيبتي طوال الطريق.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-10T10:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-2-4",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Lucía",
+        "body": "Me senté en el parque con un café. El viento me lo tiró sobre los pantalones.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-10T11:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-2-5",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Mika",
+        "body": "Endlich Wind! Meine Wohnung hat sich nach den warmen Tagen etwas abgekühlt.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-10T12:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-2-6",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Ece",
+        "body": "Kanal kenarı çok kalabalıktı. Kitabımı okuyacak sessiz bir yer bulamadım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-10T13:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-2-7",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Alex",
+        "body": "I loved the bustle by the canal. I ate my sandwich there and listened to all the different conversations.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-10T14:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-graefekiez-2",
+      "neighborhood_id": "graefekiez",
+      "diary_date": "2026-09-10",
+      "title": "Things that take their time",
+      "body": "I had little patience for a long bakery queue when all I wanted was two rolls. But waiting outside also gave me a welcome conversation with a former neighbour. I watched a child ride three wobbly metres without a helping hand. Fresh mint from the market scented my bag on the journey home. In the park, wind spilled coffee over my trousers; at home, moving air finally cooled the rooms after warm days. Along the canal I could not find the quiet I needed for my book. I also enjoyed its bustle, eating a sandwich among conversations in different voices. I held both the wish for silence and the pleasure of company.",
+      "source_ids": [
+        "demo-v1-2026-09-12-graefekiez-2-0",
+        "demo-v1-2026-09-12-graefekiez-2-1",
+        "demo-v1-2026-09-12-graefekiez-2-2",
+        "demo-v1-2026-09-12-graefekiez-2-3",
+        "demo-v1-2026-09-12-graefekiez-2-4",
+        "demo-v1-2026-09-12-graefekiez-2-5",
+        "demo-v1-2026-09-12-graefekiez-2-6",
+        "demo-v1-2026-09-12-graefekiez-2-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-graefekiez-2-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-2-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-2-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-2-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-2-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-2-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-2-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-2-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-3-0",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Leni",
+        "body": "Ich habe meine Schlüssel gesucht. Sie lagen die ganze Zeit unten in der Einkaufstasche.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-09T07:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-3-1",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Deniz",
+        "body": "Manav kapanmak üzereydi ama bana son bir demet maydanoz sattı.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-09T08:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-3-2",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Sam",
+        "body": "I spent the afternoon alone on a bench. Today the quiet felt lonely.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-09T09:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-3-3",
+        "neighborhood_id": "graefekiez",
+        "nickname": "نور",
+        "body": "جلست وحدي على مقعد لبعض الوقت. كنت أحتاج إلى هذا الهدوء بعد يوم مزدحم.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-09T10:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-3-4",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Lucía",
+        "body": "Un vecino me ayudó a subir la bici por la escalera. No sabía su nombre.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-09T11:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-3-5",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Mika",
+        "body": "Auf dem Heimweg roch es aus einem Fenster nach gebratenen Zwiebeln. Ich bekam Hunger.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-09T12:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-3-6",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Ece",
+        "body": "Sokaktaki kahkahalar gece geç saate kadar sürdü. Uyumakta zorlandım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-09T13:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-3-7",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Alex",
+        "body": "I laughed with friends outside this evening. It had been a difficult week, and I needed that.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-09T14:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-graefekiez-3",
+      "neighborhood_id": "graefekiez",
+      "diary_date": "2026-09-09",
+      "title": "Small gestures, long evening",
+      "body": "I searched for keys that had been at the bottom of my shopping bag all along. Just before the greengrocer closed, I bought one last bunch of parsley. I sat alone on a bench and felt lonely; in another quiet pause, being alone was exactly what I needed after a busy day. A neighbour whose name I did not know helped carry my bicycle upstairs. The smell of frying onions from a window made me hungry on the way home. Laughter outside brought relief after a difficult week, and it also kept me awake late into the night. The comfort of company and the need for sleep shared my streets without becoming the same feeling.",
+      "source_ids": [
+        "demo-v1-2026-09-12-graefekiez-3-0",
+        "demo-v1-2026-09-12-graefekiez-3-1",
+        "demo-v1-2026-09-12-graefekiez-3-2",
+        "demo-v1-2026-09-12-graefekiez-3-3",
+        "demo-v1-2026-09-12-graefekiez-3-4",
+        "demo-v1-2026-09-12-graefekiez-3-5",
+        "demo-v1-2026-09-12-graefekiez-3-6",
+        "demo-v1-2026-09-12-graefekiez-3-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-graefekiez-3-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-3-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-3-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-3-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-3-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-3-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-3-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-3-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-4-0",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Leni",
+        "body": "Die Baustelle hat mich früh geweckt. Ich habe meinen Kaffee ziemlich müde getrunken.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-08T07:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-4-1",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Deniz",
+        "body": "Bugün fırındaki görevli her zamanki ekmeğimi ben söylemeden uzattı. Tanınmak hoşuma gitti.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-08T08:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-4-2",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Sam",
+        "body": "A visitor asked me the way to the canal. We unfolded an enormous paper map together.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-08T09:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-4-3",
+        "neighborhood_id": "graefekiez",
+        "nickname": "نور",
+        "body": "قابلت صديقي بعد العمل. اشترينا الشاي وجلسنا نتحدث عن يومنا.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-08T10:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-4-4",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Lucía",
+        "body": "Empezó a llover justo cuando tendí la ropa fuera. Tuve que recogerla corriendo.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-08T11:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-4-5",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Mika",
+        "body": "Der Hund vor mir wollte unbedingt im Park bleiben. Seine Besitzerin hat sich schließlich zu ihm gesetzt.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-08T12:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-4-6",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Ece",
+        "body": "Yağmur bitkilerime iyi geldi. Bu akşam sulamam gerekmeyecek.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-08T13:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-graefekiez-4-7",
+        "neighborhood_id": "graefekiez",
+        "nickname": "Alex",
+        "body": "The pavement repairs are inconvenient, but that uneven patch really did need fixing.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-08T14:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-graefekiez-4",
+      "neighborhood_id": "graefekiez",
+      "diary_date": "2026-09-08",
+      "title": "A morning that kept unfolding",
+      "body": "I drank my coffee tired after an early start from the building work. The pavement repairs were inconvenient, but I knew the uneven patch needed attention. At the bakery I was handed my usual bread before asking, glad to be recognised. I unfolded an enormous paper map with a visitor looking for the canal. After work I bought tea with a friend and talked about the day. When rain arrived, I rushed to bring the washing inside; it also watered my plants and spared me an evening task. In the park a dog insisted on staying, and its owner eventually sat down beside it.",
+      "source_ids": [
+        "demo-v1-2026-09-12-graefekiez-4-0",
+        "demo-v1-2026-09-12-graefekiez-4-1",
+        "demo-v1-2026-09-12-graefekiez-4-2",
+        "demo-v1-2026-09-12-graefekiez-4-3",
+        "demo-v1-2026-09-12-graefekiez-4-4",
+        "demo-v1-2026-09-12-graefekiez-4-5",
+        "demo-v1-2026-09-12-graefekiez-4-6",
+        "demo-v1-2026-09-12-graefekiez-4-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-graefekiez-4-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-4-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-4-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-4-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-4-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-4-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-4-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-graefekiez-4-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-0-0",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Deniz",
+        "body": "Der Lieferwagen stand schon wieder auf dem Radweg. Ich musste mit dem Rad auf die Straße ausweichen.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:01.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-0-1",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Sam",
+        "body": "Komşum fazla yaptığı mercimek çorbasını kapıma getirdi. Akşam yemeğim hazır oldu.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:02.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-0-2",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "نور",
+        "body": "A saxophone player was practising the same phrase by an open window. I liked hearing it get better.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:03.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-0-3",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Lucía",
+        "body": "كنت أريد النوم بعد العمل، لكن صوت الموسيقى من النافذة أبقاني مستيقظاً.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:04.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-0-4",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Mika",
+        "body": "Encontré un libro de cocina en una caja de cosas gratis. Tiene notas a lápiz en los márgenes.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:05.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-0-5",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Ece",
+        "body": "An der Kasse hat mich jemand vorgelassen, weil ich nur eine Zitrone hatte.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:06.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-0-6",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Alex",
+        "body": "Otobüsü kaçırdım. Durakta beklerken annemi aradım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:07.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-0-7",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Leni",
+        "body": "The square was full of people tonight. I wanted a quieter place and went home.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:08.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": null
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-1-0",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Deniz",
+        "body": "Die Schlange beim Bäcker war lang. Für zwei Brötchen war mir das heute zu viel.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T07:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-1-1",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Sam",
+        "body": "Fırının önünde beklerken eski komşumla karşılaştım. Sohbet etmek iyi geldi.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T08:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-1-2",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "نور",
+        "body": "Someone was teaching a child to ride a bike. I saw three wobbly metres without a helping hand.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T09:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-1-3",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Lucía",
+        "body": "اشتريت نعناعاً من السوق. رائحته بقيت في حقيبتي طوال الطريق.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-11T10:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-1-4",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Mika",
+        "body": "Me senté en el parque con un café. El viento me lo tiró sobre los pantalones.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-11T11:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-1-5",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Ece",
+        "body": "Endlich Wind! Meine Wohnung hat sich nach den warmen Tagen etwas abgekühlt.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T12:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-1-6",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Alex",
+        "body": "Kanal kenarı çok kalabalıktı. Kitabımı okuyacak sessiz bir yer bulamadım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T13:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-1-7",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Leni",
+        "body": "I loved the bustle by the canal. I ate my sandwich there and listened to all the different conversations.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T14:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-reuterkiez-1",
+      "neighborhood_id": "reuterkiez",
+      "diary_date": "2026-09-11",
+      "title": "Things that take their time",
+      "body": "I had little patience for a long bakery queue when all I wanted was two rolls. But waiting outside also gave me a welcome conversation with a former neighbour. I watched a child ride three wobbly metres without a helping hand. Fresh mint from the market scented my bag on the journey home. In the park, wind spilled coffee over my trousers; at home, moving air finally cooled the rooms after warm days. Along the canal I could not find the quiet I needed for my book. I also enjoyed its bustle, eating a sandwich among conversations in different voices. I held both the wish for silence and the pleasure of company.",
+      "source_ids": [
+        "demo-v1-2026-09-12-reuterkiez-1-0",
+        "demo-v1-2026-09-12-reuterkiez-1-1",
+        "demo-v1-2026-09-12-reuterkiez-1-2",
+        "demo-v1-2026-09-12-reuterkiez-1-3",
+        "demo-v1-2026-09-12-reuterkiez-1-4",
+        "demo-v1-2026-09-12-reuterkiez-1-5",
+        "demo-v1-2026-09-12-reuterkiez-1-6",
+        "demo-v1-2026-09-12-reuterkiez-1-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-reuterkiez-1-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-1-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-1-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-1-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-1-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-1-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-1-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-1-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-2-0",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Deniz",
+        "body": "Ich habe meine Schlüssel gesucht. Sie lagen die ganze Zeit unten in der Einkaufstasche.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-10T07:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-2-1",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Sam",
+        "body": "Manav kapanmak üzereydi ama bana son bir demet maydanoz sattı.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-10T08:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-2-2",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "نور",
+        "body": "I spent the afternoon alone on a bench. Today the quiet felt lonely.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-10T09:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-2-3",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Lucía",
+        "body": "جلست وحدي على مقعد لبعض الوقت. كنت أحتاج إلى هذا الهدوء بعد يوم مزدحم.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-10T10:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-2-4",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Mika",
+        "body": "Un vecino me ayudó a subir la bici por la escalera. No sabía su nombre.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-10T11:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-2-5",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Ece",
+        "body": "Auf dem Heimweg roch es aus einem Fenster nach gebratenen Zwiebeln. Ich bekam Hunger.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-10T12:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-2-6",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Alex",
+        "body": "Sokaktaki kahkahalar gece geç saate kadar sürdü. Uyumakta zorlandım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-10T13:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-2-7",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Leni",
+        "body": "I laughed with friends outside this evening. It had been a difficult week, and I needed that.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-10T14:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-reuterkiez-2",
+      "neighborhood_id": "reuterkiez",
+      "diary_date": "2026-09-10",
+      "title": "Small gestures, long evening",
+      "body": "I searched for keys that had been at the bottom of my shopping bag all along. Just before the greengrocer closed, I bought one last bunch of parsley. I sat alone on a bench and felt lonely; in another quiet pause, being alone was exactly what I needed after a busy day. A neighbour whose name I did not know helped carry my bicycle upstairs. The smell of frying onions from a window made me hungry on the way home. Laughter outside brought relief after a difficult week, and it also kept me awake late into the night. The comfort of company and the need for sleep shared my streets without becoming the same feeling.",
+      "source_ids": [
+        "demo-v1-2026-09-12-reuterkiez-2-0",
+        "demo-v1-2026-09-12-reuterkiez-2-1",
+        "demo-v1-2026-09-12-reuterkiez-2-2",
+        "demo-v1-2026-09-12-reuterkiez-2-3",
+        "demo-v1-2026-09-12-reuterkiez-2-4",
+        "demo-v1-2026-09-12-reuterkiez-2-5",
+        "demo-v1-2026-09-12-reuterkiez-2-6",
+        "demo-v1-2026-09-12-reuterkiez-2-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-reuterkiez-2-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-2-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-2-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-2-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-2-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-2-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-2-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-2-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-3-0",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Deniz",
+        "body": "Die Baustelle hat mich früh geweckt. Ich habe meinen Kaffee ziemlich müde getrunken.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-09T07:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-3-1",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Sam",
+        "body": "Bugün fırındaki görevli her zamanki ekmeğimi ben söylemeden uzattı. Tanınmak hoşuma gitti.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-09T08:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-3-2",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "نور",
+        "body": "A visitor asked me the way to the canal. We unfolded an enormous paper map together.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-09T09:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-3-3",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Lucía",
+        "body": "قابلت صديقي بعد العمل. اشترينا الشاي وجلسنا نتحدث عن يومنا.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-09T10:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-3-4",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Mika",
+        "body": "Empezó a llover justo cuando tendí la ropa fuera. Tuve que recogerla corriendo.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-09T11:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-3-5",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Ece",
+        "body": "Der Hund vor mir wollte unbedingt im Park bleiben. Seine Besitzerin hat sich schließlich zu ihm gesetzt.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-09T12:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-3-6",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Alex",
+        "body": "Yağmur bitkilerime iyi geldi. Bu akşam sulamam gerekmeyecek.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-09T13:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-3-7",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Leni",
+        "body": "The pavement repairs are inconvenient, but that uneven patch really did need fixing.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-09T14:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-reuterkiez-3",
+      "neighborhood_id": "reuterkiez",
+      "diary_date": "2026-09-09",
+      "title": "A morning that kept unfolding",
+      "body": "I drank my coffee tired after an early start from the building work. The pavement repairs were inconvenient, but I knew the uneven patch needed attention. At the bakery I was handed my usual bread before asking, glad to be recognised. I unfolded an enormous paper map with a visitor looking for the canal. After work I bought tea with a friend and talked about the day. When rain arrived, I rushed to bring the washing inside; it also watered my plants and spared me an evening task. In the park a dog insisted on staying, and its owner eventually sat down beside it.",
+      "source_ids": [
+        "demo-v1-2026-09-12-reuterkiez-3-0",
+        "demo-v1-2026-09-12-reuterkiez-3-1",
+        "demo-v1-2026-09-12-reuterkiez-3-2",
+        "demo-v1-2026-09-12-reuterkiez-3-3",
+        "demo-v1-2026-09-12-reuterkiez-3-4",
+        "demo-v1-2026-09-12-reuterkiez-3-5",
+        "demo-v1-2026-09-12-reuterkiez-3-6",
+        "demo-v1-2026-09-12-reuterkiez-3-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-reuterkiez-3-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-3-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-3-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-3-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-3-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-3-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-3-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-3-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-4-0",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Deniz",
+        "body": "Seit sieben wird nebenan gebohrt. Ich wollte heute einfach nur in Ruhe frühstücken.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-08T07:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-4-1",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Sam",
+        "body": "Fırından sıcak ekmek aldım. Eve varmadan ucundan bir parça koparıp yedim.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-08T08:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-4-2",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "نور",
+        "body": "Visiting for the first time. People were sitting along the canal with their feet dangling. I stayed a while.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-08T09:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-4-3",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Lucía",
+        "body": "التقيت بصديقتي عند الزاوية. لم نلتق منذ شهر، وبقينا نتحدث طويلاً.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-08T10:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-4-4",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Mika",
+        "body": "La lluvia me pilló sin paraguas. Llegué a casa con los zapatos empapados.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-08T11:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-4-5",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Ece",
+        "body": "Mein Hund hat sich mitten im Park hingelegt und wollte nicht mehr nach Hause. Ich musste lachen.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-08T12:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-4-6",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Alex",
+        "body": "Yağmur başlayınca hava serinledi. Açık pencerenin yanında rahat bir nefes aldım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-08T13:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-reuterkiez-4-7",
+        "neighborhood_id": "reuterkiez",
+        "nickname": "Leni",
+        "body": "The construction is loud, but I am glad the broken pavement is finally being repaired.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-08T14:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-reuterkiez-4",
+      "neighborhood_id": "reuterkiez",
+      "diary_date": "2026-09-08",
+      "title": "A little room for everyone",
+      "body": "I woke to drilling that made a quiet breakfast impossible. I was tired of the noise, and I was also glad to see broken pavement being repaired. Neither feeling cancelled the other. I carried warm bread home, a piece already torn from its end. Along my canal, I lingered with a first-time visitor watching feet dangle over the water. At a corner, I caught up with a friend after a month apart. Rain soaked my shoes on the way home; beside an open window, that same rain brought cooler air and relief. In the park, I laughed at a dog who had decided the walk was not over.",
+      "source_ids": [
+        "demo-v1-2026-09-12-reuterkiez-4-0",
+        "demo-v1-2026-09-12-reuterkiez-4-1",
+        "demo-v1-2026-09-12-reuterkiez-4-2",
+        "demo-v1-2026-09-12-reuterkiez-4-3",
+        "demo-v1-2026-09-12-reuterkiez-4-4",
+        "demo-v1-2026-09-12-reuterkiez-4-5",
+        "demo-v1-2026-09-12-reuterkiez-4-6",
+        "demo-v1-2026-09-12-reuterkiez-4-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-reuterkiez-4-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-4-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-4-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-4-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-4-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-4-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-4-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-reuterkiez-4-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-0-0",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Sam",
+        "body": "Die Schlange beim Bäcker war lang. Für zwei Brötchen war mir das heute zu viel.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:01.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-0-1",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "نور",
+        "body": "Fırının önünde beklerken eski komşumla karşılaştım. Sohbet etmek iyi geldi.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:02.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-0-2",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Lucía",
+        "body": "Someone was teaching a child to ride a bike. I saw three wobbly metres without a helping hand.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:03.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-0-3",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Mika",
+        "body": "اشتريت نعناعاً من السوق. رائحته بقيت في حقيبتي طوال الطريق.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:04.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-0-4",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Ece",
+        "body": "Me senté en el parque con un café. El viento me lo tiró sobre los pantalones.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:05.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-0-5",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Alex",
+        "body": "Endlich Wind! Meine Wohnung hat sich nach den warmen Tagen etwas abgekühlt.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:06.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-0-6",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Leni",
+        "body": "Kanal kenarı çok kalabalıktı. Kitabımı okuyacak sessiz bir yer bulamadım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:07.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-0-7",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Deniz",
+        "body": "I loved the bustle by the canal. I ate my sandwich there and listened to all the different conversations.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:08.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": null
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-1-0",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Sam",
+        "body": "Ich habe meine Schlüssel gesucht. Sie lagen die ganze Zeit unten in der Einkaufstasche.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T07:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-1-1",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "نور",
+        "body": "Manav kapanmak üzereydi ama bana son bir demet maydanoz sattı.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T08:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-1-2",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Lucía",
+        "body": "I spent the afternoon alone on a bench. Today the quiet felt lonely.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T09:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-1-3",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Mika",
+        "body": "جلست وحدي على مقعد لبعض الوقت. كنت أحتاج إلى هذا الهدوء بعد يوم مزدحم.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-11T10:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-1-4",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Ece",
+        "body": "Un vecino me ayudó a subir la bici por la escalera. No sabía su nombre.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-11T11:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-1-5",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Alex",
+        "body": "Auf dem Heimweg roch es aus einem Fenster nach gebratenen Zwiebeln. Ich bekam Hunger.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T12:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-1-6",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Leni",
+        "body": "Sokaktaki kahkahalar gece geç saate kadar sürdü. Uyumakta zorlandım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T13:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-1-7",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Deniz",
+        "body": "I laughed with friends outside this evening. It had been a difficult week, and I needed that.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T14:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-bergmannkiez-1",
+      "neighborhood_id": "bergmannkiez",
+      "diary_date": "2026-09-11",
+      "title": "Small gestures, long evening",
+      "body": "I searched for keys that had been at the bottom of my shopping bag all along. Just before the greengrocer closed, I bought one last bunch of parsley. I sat alone on a bench and felt lonely; in another quiet pause, being alone was exactly what I needed after a busy day. A neighbour whose name I did not know helped carry my bicycle upstairs. The smell of frying onions from a window made me hungry on the way home. Laughter outside brought relief after a difficult week, and it also kept me awake late into the night. The comfort of company and the need for sleep shared my streets without becoming the same feeling.",
+      "source_ids": [
+        "demo-v1-2026-09-12-bergmannkiez-1-0",
+        "demo-v1-2026-09-12-bergmannkiez-1-1",
+        "demo-v1-2026-09-12-bergmannkiez-1-2",
+        "demo-v1-2026-09-12-bergmannkiez-1-3",
+        "demo-v1-2026-09-12-bergmannkiez-1-4",
+        "demo-v1-2026-09-12-bergmannkiez-1-5",
+        "demo-v1-2026-09-12-bergmannkiez-1-6",
+        "demo-v1-2026-09-12-bergmannkiez-1-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-bergmannkiez-1-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-1-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-1-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-1-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-1-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-1-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-1-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-1-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-2-0",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Sam",
+        "body": "Die Baustelle hat mich früh geweckt. Ich habe meinen Kaffee ziemlich müde getrunken.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-10T07:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-2-1",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "نور",
+        "body": "Bugün fırındaki görevli her zamanki ekmeğimi ben söylemeden uzattı. Tanınmak hoşuma gitti.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-10T08:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-2-2",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Lucía",
+        "body": "A visitor asked me the way to the canal. We unfolded an enormous paper map together.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-10T09:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-2-3",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Mika",
+        "body": "قابلت صديقي بعد العمل. اشترينا الشاي وجلسنا نتحدث عن يومنا.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-10T10:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-2-4",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Ece",
+        "body": "Empezó a llover justo cuando tendí la ropa fuera. Tuve que recogerla corriendo.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-10T11:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-2-5",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Alex",
+        "body": "Der Hund vor mir wollte unbedingt im Park bleiben. Seine Besitzerin hat sich schließlich zu ihm gesetzt.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-10T12:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-2-6",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Leni",
+        "body": "Yağmur bitkilerime iyi geldi. Bu akşam sulamam gerekmeyecek.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-10T13:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-2-7",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Deniz",
+        "body": "The pavement repairs are inconvenient, but that uneven patch really did need fixing.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-10T14:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-bergmannkiez-2",
+      "neighborhood_id": "bergmannkiez",
+      "diary_date": "2026-09-10",
+      "title": "A morning that kept unfolding",
+      "body": "I drank my coffee tired after an early start from the building work. The pavement repairs were inconvenient, but I knew the uneven patch needed attention. At the bakery I was handed my usual bread before asking, glad to be recognised. I unfolded an enormous paper map with a visitor looking for the canal. After work I bought tea with a friend and talked about the day. When rain arrived, I rushed to bring the washing inside; it also watered my plants and spared me an evening task. In the park a dog insisted on staying, and its owner eventually sat down beside it.",
+      "source_ids": [
+        "demo-v1-2026-09-12-bergmannkiez-2-0",
+        "demo-v1-2026-09-12-bergmannkiez-2-1",
+        "demo-v1-2026-09-12-bergmannkiez-2-2",
+        "demo-v1-2026-09-12-bergmannkiez-2-3",
+        "demo-v1-2026-09-12-bergmannkiez-2-4",
+        "demo-v1-2026-09-12-bergmannkiez-2-5",
+        "demo-v1-2026-09-12-bergmannkiez-2-6",
+        "demo-v1-2026-09-12-bergmannkiez-2-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-bergmannkiez-2-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-2-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-2-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-2-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-2-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-2-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-2-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-2-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-3-0",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Sam",
+        "body": "Seit sieben wird nebenan gebohrt. Ich wollte heute einfach nur in Ruhe frühstücken.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-09T07:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-3-1",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "نور",
+        "body": "Fırından sıcak ekmek aldım. Eve varmadan ucundan bir parça koparıp yedim.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-09T08:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-3-2",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Lucía",
+        "body": "Visiting for the first time. People were sitting along the canal with their feet dangling. I stayed a while.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-09T09:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-3-3",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Mika",
+        "body": "التقيت بصديقتي عند الزاوية. لم نلتق منذ شهر، وبقينا نتحدث طويلاً.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-09T10:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-3-4",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Ece",
+        "body": "La lluvia me pilló sin paraguas. Llegué a casa con los zapatos empapados.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-09T11:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-3-5",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Alex",
+        "body": "Mein Hund hat sich mitten im Park hingelegt und wollte nicht mehr nach Hause. Ich musste lachen.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-09T12:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-3-6",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Leni",
+        "body": "Yağmur başlayınca hava serinledi. Açık pencerenin yanında rahat bir nefes aldım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-09T13:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-3-7",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Deniz",
+        "body": "The construction is loud, but I am glad the broken pavement is finally being repaired.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-09T14:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-bergmannkiez-3",
+      "neighborhood_id": "bergmannkiez",
+      "diary_date": "2026-09-09",
+      "title": "A little room for everyone",
+      "body": "I woke to drilling that made a quiet breakfast impossible. I was tired of the noise, and I was also glad to see broken pavement being repaired. Neither feeling cancelled the other. I carried warm bread home, a piece already torn from its end. Along my canal, I lingered with a first-time visitor watching feet dangle over the water. At a corner, I caught up with a friend after a month apart. Rain soaked my shoes on the way home; beside an open window, that same rain brought cooler air and relief. In the park, I laughed at a dog who had decided the walk was not over.",
+      "source_ids": [
+        "demo-v1-2026-09-12-bergmannkiez-3-0",
+        "demo-v1-2026-09-12-bergmannkiez-3-1",
+        "demo-v1-2026-09-12-bergmannkiez-3-2",
+        "demo-v1-2026-09-12-bergmannkiez-3-3",
+        "demo-v1-2026-09-12-bergmannkiez-3-4",
+        "demo-v1-2026-09-12-bergmannkiez-3-5",
+        "demo-v1-2026-09-12-bergmannkiez-3-6",
+        "demo-v1-2026-09-12-bergmannkiez-3-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-bergmannkiez-3-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-3-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-3-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-3-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-3-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-3-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-3-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-3-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-4-0",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Sam",
+        "body": "Der Lieferwagen stand schon wieder auf dem Radweg. Ich musste mit dem Rad auf die Straße ausweichen.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-08T07:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-4-1",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "نور",
+        "body": "Komşum fazla yaptığı mercimek çorbasını kapıma getirdi. Akşam yemeğim hazır oldu.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-08T08:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-4-2",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Lucía",
+        "body": "A saxophone player was practising the same phrase by an open window. I liked hearing it get better.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-08T09:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-4-3",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Mika",
+        "body": "كنت أريد النوم بعد العمل، لكن صوت الموسيقى من النافذة أبقاني مستيقظاً.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-08T10:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-4-4",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Ece",
+        "body": "Encontré un libro de cocina en una caja de cosas gratis. Tiene notas a lápiz en los márgenes.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-08T11:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-4-5",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Alex",
+        "body": "An der Kasse hat mich jemand vorgelassen, weil ich nur eine Zitrone hatte.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-08T12:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-4-6",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Leni",
+        "body": "Otobüsü kaçırdım. Durakta beklerken annemi aradım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-08T13:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-bergmannkiez-4-7",
+        "neighborhood_id": "bergmannkiez",
+        "nickname": "Deniz",
+        "body": "The square was full of people tonight. I wanted a quieter place and went home.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-08T14:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-bergmannkiez-4",
+      "neighborhood_id": "bergmannkiez",
+      "diary_date": "2026-09-08",
+      "title": "The space between the noise",
+      "body": "I swerved around a delivery van blocking my cycle lane, frustrated to be pushed into the road. At a doorway I received a neighbour’s spare lentil soup, and dinner was suddenly taken care of. A saxophone phrase repeated through an open window: I enjoyed hearing it improve, yet I also lay awake after work wishing the music would stop. I found a cookbook in a giveaway box, its margins filled with pencil notes. At the checkout, someone let me go ahead with my single lemon. A missed bus left time to call my mother. My square was full of people tonight; I wanted quiet, and went home.",
+      "source_ids": [
+        "demo-v1-2026-09-12-bergmannkiez-4-0",
+        "demo-v1-2026-09-12-bergmannkiez-4-1",
+        "demo-v1-2026-09-12-bergmannkiez-4-2",
+        "demo-v1-2026-09-12-bergmannkiez-4-3",
+        "demo-v1-2026-09-12-bergmannkiez-4-4",
+        "demo-v1-2026-09-12-bergmannkiez-4-5",
+        "demo-v1-2026-09-12-bergmannkiez-4-6",
+        "demo-v1-2026-09-12-bergmannkiez-4-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-bergmannkiez-4-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-4-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-4-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-4-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-4-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-4-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-4-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-bergmannkiez-4-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-0-0",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "نور",
+        "body": "Ich habe meine Schlüssel gesucht. Sie lagen die ganze Zeit unten in der Einkaufstasche.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:01.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-0-1",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Lucía",
+        "body": "Manav kapanmak üzereydi ama bana son bir demet maydanoz sattı.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:02.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-0-2",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Mika",
+        "body": "I spent the afternoon alone on a bench. Today the quiet felt lonely.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:03.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-0-3",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Ece",
+        "body": "جلست وحدي على مقعد لبعض الوقت. كنت أحتاج إلى هذا الهدوء بعد يوم مزدحم.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:04.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-0-4",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Alex",
+        "body": "Un vecino me ayudó a subir la bici por la escalera. No sabía su nombre.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:05.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-0-5",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Leni",
+        "body": "Auf dem Heimweg roch es aus einem Fenster nach gebratenen Zwiebeln. Ich bekam Hunger.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:06.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-0-6",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Deniz",
+        "body": "Sokaktaki kahkahalar gece geç saate kadar sürdü. Uyumakta zorlandım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:07.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-0-7",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Sam",
+        "body": "I laughed with friends outside this evening. It had been a difficult week, and I needed that.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T22:00:08.000Z",
+        "diary_date": "2026-09-12",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": null
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-1-0",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "نور",
+        "body": "Die Baustelle hat mich früh geweckt. Ich habe meinen Kaffee ziemlich müde getrunken.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T07:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-1-1",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Lucía",
+        "body": "Bugün fırındaki görevli her zamanki ekmeğimi ben söylemeden uzattı. Tanınmak hoşuma gitti.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T08:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-1-2",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Mika",
+        "body": "A visitor asked me the way to the canal. We unfolded an enormous paper map together.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T09:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-1-3",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Ece",
+        "body": "قابلت صديقي بعد العمل. اشترينا الشاي وجلسنا نتحدث عن يومنا.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-11T10:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-1-4",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Alex",
+        "body": "Empezó a llover justo cuando tendí la ropa fuera. Tuve que recogerla corriendo.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-11T11:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-1-5",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Leni",
+        "body": "Der Hund vor mir wollte unbedingt im Park bleiben. Seine Besitzerin hat sich schließlich zu ihm gesetzt.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-11T12:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-1-6",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Deniz",
+        "body": "Yağmur bitkilerime iyi geldi. Bu akşam sulamam gerekmeyecek.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-11T13:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-1-7",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Sam",
+        "body": "The pavement repairs are inconvenient, but that uneven patch really did need fixing.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-11T14:15:00Z",
+        "diary_date": "2026-09-11",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-schillerkiez-1",
+      "neighborhood_id": "schillerkiez",
+      "diary_date": "2026-09-11",
+      "title": "A morning that kept unfolding",
+      "body": "I drank my coffee tired after an early start from the building work. The pavement repairs were inconvenient, but I knew the uneven patch needed attention. At the bakery I was handed my usual bread before asking, glad to be recognised. I unfolded an enormous paper map with a visitor looking for the canal. After work I bought tea with a friend and talked about the day. When rain arrived, I rushed to bring the washing inside; it also watered my plants and spared me an evening task. In the park a dog insisted on staying, and its owner eventually sat down beside it.",
+      "source_ids": [
+        "demo-v1-2026-09-12-schillerkiez-1-0",
+        "demo-v1-2026-09-12-schillerkiez-1-1",
+        "demo-v1-2026-09-12-schillerkiez-1-2",
+        "demo-v1-2026-09-12-schillerkiez-1-3",
+        "demo-v1-2026-09-12-schillerkiez-1-4",
+        "demo-v1-2026-09-12-schillerkiez-1-5",
+        "demo-v1-2026-09-12-schillerkiez-1-6",
+        "demo-v1-2026-09-12-schillerkiez-1-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-schillerkiez-1-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-1-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-1-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-1-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-1-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-1-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-1-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-1-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-2-0",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "نور",
+        "body": "Seit sieben wird nebenan gebohrt. Ich wollte heute einfach nur in Ruhe frühstücken.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-10T07:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-2-1",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Lucía",
+        "body": "Fırından sıcak ekmek aldım. Eve varmadan ucundan bir parça koparıp yedim.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-10T08:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-2-2",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Mika",
+        "body": "Visiting for the first time. People were sitting along the canal with their feet dangling. I stayed a while.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-10T09:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-2-3",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Ece",
+        "body": "التقيت بصديقتي عند الزاوية. لم نلتق منذ شهر، وبقينا نتحدث طويلاً.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-10T10:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-2-4",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Alex",
+        "body": "La lluvia me pilló sin paraguas. Llegué a casa con los zapatos empapados.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-10T11:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-2-5",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Leni",
+        "body": "Mein Hund hat sich mitten im Park hingelegt und wollte nicht mehr nach Hause. Ich musste lachen.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-10T12:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-2-6",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Deniz",
+        "body": "Yağmur başlayınca hava serinledi. Açık pencerenin yanında rahat bir nefes aldım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-10T13:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-2-7",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Sam",
+        "body": "The construction is loud, but I am glad the broken pavement is finally being repaired.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-10T14:15:00Z",
+        "diary_date": "2026-09-10",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-schillerkiez-2",
+      "neighborhood_id": "schillerkiez",
+      "diary_date": "2026-09-10",
+      "title": "A little room for everyone",
+      "body": "I woke to drilling that made a quiet breakfast impossible. I was tired of the noise, and I was also glad to see broken pavement being repaired. Neither feeling cancelled the other. I carried warm bread home, a piece already torn from its end. Along my canal, I lingered with a first-time visitor watching feet dangle over the water. At a corner, I caught up with a friend after a month apart. Rain soaked my shoes on the way home; beside an open window, that same rain brought cooler air and relief. In the park, I laughed at a dog who had decided the walk was not over.",
+      "source_ids": [
+        "demo-v1-2026-09-12-schillerkiez-2-0",
+        "demo-v1-2026-09-12-schillerkiez-2-1",
+        "demo-v1-2026-09-12-schillerkiez-2-2",
+        "demo-v1-2026-09-12-schillerkiez-2-3",
+        "demo-v1-2026-09-12-schillerkiez-2-4",
+        "demo-v1-2026-09-12-schillerkiez-2-5",
+        "demo-v1-2026-09-12-schillerkiez-2-6",
+        "demo-v1-2026-09-12-schillerkiez-2-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-schillerkiez-2-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-2-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-2-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-2-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-2-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-2-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-2-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-2-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-3-0",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "نور",
+        "body": "Der Lieferwagen stand schon wieder auf dem Radweg. Ich musste mit dem Rad auf die Straße ausweichen.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-09T07:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-3-1",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Lucía",
+        "body": "Komşum fazla yaptığı mercimek çorbasını kapıma getirdi. Akşam yemeğim hazır oldu.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-09T08:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-3-2",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Mika",
+        "body": "A saxophone player was practising the same phrase by an open window. I liked hearing it get better.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-09T09:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-3-3",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Ece",
+        "body": "كنت أريد النوم بعد العمل، لكن صوت الموسيقى من النافذة أبقاني مستيقظاً.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-09T10:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-3-4",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Alex",
+        "body": "Encontré un libro de cocina en una caja de cosas gratis. Tiene notas a lápiz en los márgenes.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-09T11:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-3-5",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Leni",
+        "body": "An der Kasse hat mich jemand vorgelassen, weil ich nur eine Zitrone hatte.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-09T12:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-3-6",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Deniz",
+        "body": "Otobüsü kaçırdım. Durakta beklerken annemi aradım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-09T13:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-3-7",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Sam",
+        "body": "The square was full of people tonight. I wanted a quieter place and went home.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-09T14:15:00Z",
+        "diary_date": "2026-09-09",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-schillerkiez-3",
+      "neighborhood_id": "schillerkiez",
+      "diary_date": "2026-09-09",
+      "title": "The space between the noise",
+      "body": "I swerved around a delivery van blocking my cycle lane, frustrated to be pushed into the road. At a doorway I received a neighbour’s spare lentil soup, and dinner was suddenly taken care of. A saxophone phrase repeated through an open window: I enjoyed hearing it improve, yet I also lay awake after work wishing the music would stop. I found a cookbook in a giveaway box, its margins filled with pencil notes. At the checkout, someone let me go ahead with my single lemon. A missed bus left time to call my mother. My square was full of people tonight; I wanted quiet, and went home.",
+      "source_ids": [
+        "demo-v1-2026-09-12-schillerkiez-3-0",
+        "demo-v1-2026-09-12-schillerkiez-3-1",
+        "demo-v1-2026-09-12-schillerkiez-3-2",
+        "demo-v1-2026-09-12-schillerkiez-3-3",
+        "demo-v1-2026-09-12-schillerkiez-3-4",
+        "demo-v1-2026-09-12-schillerkiez-3-5",
+        "demo-v1-2026-09-12-schillerkiez-3-6",
+        "demo-v1-2026-09-12-schillerkiez-3-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-schillerkiez-3-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-3-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-3-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-3-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-3-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-3-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-3-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-3-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  },
+  {
+    "entries": [
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-4-0",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "نور",
+        "body": "Die Schlange beim Bäcker war lang. Für zwei Brötchen war mir das heute zu viel.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-08T07:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-4-1",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Lucía",
+        "body": "Fırının önünde beklerken eski komşumla karşılaştım. Sohbet etmek iyi geldi.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-08T08:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-4-2",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Mika",
+        "body": "Someone was teaching a child to ride a bike. I saw three wobbly metres without a helping hand.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-08T09:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-4-3",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Ece",
+        "body": "اشتريت نعناعاً من السوق. رائحته بقيت في حقيبتي طوال الطريق.",
+        "language": "ar",
+        "input_mode": "text",
+        "created_at": "2026-09-08T10:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-4-4",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Alex",
+        "body": "Me senté en el parque con un café. El viento me lo tiró sobre los pantalones.",
+        "language": "es",
+        "input_mode": "text",
+        "created_at": "2026-09-08T11:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-4-5",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Leni",
+        "body": "Endlich Wind! Meine Wohnung hat sich nach den warmen Tagen etwas abgekühlt.",
+        "language": "de",
+        "input_mode": "text",
+        "created_at": "2026-09-08T12:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-4-6",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Deniz",
+        "body": "Kanal kenarı çok kalabalıktı. Kitabımı okuyacak sessiz bir yer bulamadım.",
+        "language": "tr",
+        "input_mode": "text",
+        "created_at": "2026-09-08T13:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      },
+      {
+        "id": "demo-v1-2026-09-12-schillerkiez-4-7",
+        "neighborhood_id": "schillerkiez",
+        "nickname": "Sam",
+        "body": "I loved the bustle by the canal. I ate my sandwich there and listened to all the different conversations.",
+        "language": "en",
+        "input_mode": "text",
+        "created_at": "2026-09-08T14:15:00Z",
+        "diary_date": "2026-09-08",
+        "demo_dataset": "demo-v1-2026-09-12"
+      }
+    ],
+    "chronicle": {
+      "id": "demo-v1-2026-09-12-schillerkiez-4",
+      "neighborhood_id": "schillerkiez",
+      "diary_date": "2026-09-08",
+      "title": "Things that take their time",
+      "body": "I had little patience for a long bakery queue when all I wanted was two rolls. But waiting outside also gave me a welcome conversation with a former neighbour. I watched a child ride three wobbly metres without a helping hand. Fresh mint from the market scented my bag on the journey home. In the park, wind spilled coffee over my trousers; at home, moving air finally cooled the rooms after warm days. Along the canal I could not find the quiet I needed for my book. I also enjoyed its bustle, eating a sandwich among conversations in different voices. I held both the wish for silence and the pleasure of company.",
+      "source_ids": [
+        "demo-v1-2026-09-12-schillerkiez-4-0",
+        "demo-v1-2026-09-12-schillerkiez-4-1",
+        "demo-v1-2026-09-12-schillerkiez-4-2",
+        "demo-v1-2026-09-12-schillerkiez-4-3",
+        "demo-v1-2026-09-12-schillerkiez-4-4",
+        "demo-v1-2026-09-12-schillerkiez-4-5",
+        "demo-v1-2026-09-12-schillerkiez-4-6",
+        "demo-v1-2026-09-12-schillerkiez-4-7"
+      ],
+      "coverage": {
+        "demo-v1-2026-09-12-schillerkiez-4-0": "Reviewed fixture detail 1; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-4-1": "Reviewed fixture detail 2; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-4-2": "Reviewed fixture detail 3; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-4-3": "Reviewed fixture detail 4; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-4-4": "Reviewed fixture detail 5; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-4-5": "Reviewed fixture detail 6; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-4-6": "Reviewed fixture detail 7; see source-language entry and canonical prose.",
+        "demo-v1-2026-09-12-schillerkiez-4-7": "Reviewed fixture detail 8; see source-language entry and canonical prose."
+      },
+      "demo_dataset": "demo-v1-2026-09-12"
+    }
+  }
+]

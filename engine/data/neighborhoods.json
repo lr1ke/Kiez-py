@@ -1,0 +1,191 @@
+[
+  {
+    "id": "graefekiez",
+    "name": "Graefekiez",
+    "district": "Kreuzberg",
+    "aliases": [
+      "kreuzberg",
+      "graefe",
+      "gräfekiez"
+    ],
+    "description": "Canal-side conversations & little everyday rituals.",
+    "color": "#b05e44",
+    "center": [
+      52.4917,
+      13.415
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            13.408,
+            52.487
+          ],
+          [
+            13.4212,
+            52.487
+          ],
+          [
+            13.423,
+            52.4938
+          ],
+          [
+            13.414,
+            52.4966
+          ],
+          [
+            13.407,
+            52.494
+          ],
+          [
+            13.408,
+            52.487
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "reuterkiez",
+    "name": "Reuterkiez",
+    "district": "Neukölln",
+    "aliases": [
+      "neukolln",
+      "neukölln",
+      "reuter"
+    ],
+    "description": "A hundred languages, a familiar corner.",
+    "color": "#7d8963",
+    "center": [
+      52.4878,
+      13.4325
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            13.424,
+            52.483
+          ],
+          [
+            13.439,
+            52.483
+          ],
+          [
+            13.442,
+            52.4895
+          ],
+          [
+            13.432,
+            52.4935
+          ],
+          [
+            13.425,
+            52.4925
+          ],
+          [
+            13.424,
+            52.483
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "bergmannkiez",
+    "name": "Bergmannkiez",
+    "district": "Kreuzberg",
+    "aliases": [
+      "kreuzberg",
+      "bergmann",
+      "marheineke"
+    ],
+    "description": "Market mornings, park afternoons, stories in between.",
+    "color": "#aa8c55",
+    "center": [
+      52.4887,
+      13.392
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            13.382,
+            52.484
+          ],
+          [
+            13.401,
+            52.484
+          ],
+          [
+            13.404,
+            52.4905
+          ],
+          [
+            13.399,
+            52.494
+          ],
+          [
+            13.383,
+            52.493
+          ],
+          [
+            13.382,
+            52.484
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "id": "schillerkiez",
+    "name": "Schillerkiez",
+    "district": "Neukölln",
+    "aliases": [
+      "neukolln",
+      "neukölln",
+      "schiller",
+      "tempelhofer feld"
+    ],
+    "description": "Wide skies and the people who live beneath them.",
+    "color": "#788e94",
+    "center": [
+      52.4752,
+      13.419
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            13.411,
+            52.4705
+          ],
+          [
+            13.426,
+            52.4705
+          ],
+          [
+            13.428,
+            52.4782
+          ],
+          [
+            13.422,
+            52.4804
+          ],
+          [
+            13.411,
+            52.4785
+          ],
+          [
+            13.411,
+            52.4705
+          ]
+        ]
+      ]
+    }
+  }
+]

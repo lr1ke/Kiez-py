@@ -1,0 +1,52 @@
+services:
+  postgres:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: kiez
+      POSTGRES_USER: kiez
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-kiez}
+    ports: ["127.0.0.1:5432:5432"]
+    volumes: ["postgres-data:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U kiez -d kiez"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+  init:
+    build: ./engine
+    env_file: ./engine/.env
+    environment:
+      DATABASE_URL: postgresql+psycopg://kiez:${POSTGRES_PASSWORD:-kiez}@postgres:5432/kiez
+    command: ["sh", "-c", "alembic upgrade head && python -m app.db.seed"]
+    depends_on:
+      postgres: {condition: service_healthy}
+  api:
+    build: ./engine
+    env_file: ./engine/.env
+    environment:
+      DATABASE_URL: postgresql+psycopg://kiez:${POSTGRES_PASSWORD:-kiez}@postgres:5432/kiez
+    ports: ["127.0.0.1:8000:8000"]
+    depends_on:
+      init: {condition: service_completed_successfully}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/readyz')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+  worker:
+    build: ./engine
+    env_file: ./engine/.env
+    environment:
+      DATABASE_URL: postgresql+psycopg://kiez:${POSTGRES_PASSWORD:-kiez}@postgres:5432/kiez
+    command: ["python", "-m", "app.jobs.worker"]
+    depends_on:
+      init: {condition: service_completed_successfully}
+  frontend:
+    build: ./frontend
+    environment:
+      API_INTERNAL_URL: http://api:8000
+    ports: ["127.0.0.1:3001:3000"]
+    depends_on:
+      api: {condition: service_healthy}
+volumes:
+  postgres-data:

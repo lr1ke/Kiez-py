@@ -1,0 +1,9 @@
+'use client';
+import { useEffect,useState } from 'react';
+import { Quote,Layers } from 'lucide-react';
+import { Composer } from './composer';
+import { Listen } from './listen';
+import { api } from '@/lib/utils';
+import { timeLabel } from '@/lib/dates';
+import { languages,type Contribution,type Neighborhood } from '@/lib/types';
+export function Diary({neighborhood,initial}:{neighborhood:Neighborhood;initial:Contribution|null}){const [entry,setEntry]=useState(initial);const refresh=()=>api<Contribution|null>(`latest?kiez=${neighborhood.id}`).then(setEntry).catch(()=>{});useEffect(()=>{const timer=setInterval(refresh,15000);window.addEventListener('focus',refresh);return()=>{clearInterval(timer);window.removeEventListener('focus',refresh);};},[neighborhood.id]);return <><div className="diary-actions"><span><span className="live-dot"/> THE LATEST MOMENT</span><Composer browsing={neighborhood.id} onPublished={refresh}/></div><article className="diary-paper"><div className="diary-paper-top"><span>{neighborhood.name.toUpperCase()}</span><Layers size={18}/></div>{entry?<><Quote size={32} strokeWidth={1} className="entry-quote"/><p className="entry-text" lang={entry.language==='mixed'||entry.language==='und'?undefined:entry.language} dir="auto">{entry.body}</p><div className="entry-author"><span className="avatar">{entry.nickname.slice(0,1)}</span><div><strong>{entry.nickname}</strong><small>{timeLabel(entry.created_at)} · {languages[entry.language as keyof typeof languages]||'Original language'}{entry.demo_dataset?' · Demo moment':''}</small></div></div><Listen id={entry.id} kind="contribution" sourceLanguage={entry.language}/></>:<div className="waiting"><h2>Waiting</h2><p>There’s a page here for the first little thing you notice.</p></div>}</article><p className="stack-explanation"><Layers size={15}/> Only the latest moment is shown. Every earlier voice stays part of today’s Chronicle.</p></>;}
